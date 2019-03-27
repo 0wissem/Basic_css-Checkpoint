@@ -68,14 +68,11 @@ h1,h2,h3,p {
     padding-right: 170px;
   }
 
-.c1:hover{
+.l1:hover{
   border: solid 5px;
   transition: border-width 0.5s;
 }
-.c2:hover{
-  border: solid 5px;
-  transition: border-width 0.5s;
-}
+
 .l2:hover{
   border: solid 5px black;
   transition: border-width 0.5s;
